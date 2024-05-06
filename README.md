@@ -8,7 +8,7 @@
 
 ## Prerequisites
 
-1.  ImageMagick (run the following command)
+1.  ImageMagick
 
 ## How to use
 
